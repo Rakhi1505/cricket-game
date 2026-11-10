@@ -1,0 +1,9 @@
+body{  text-align:center;background-image:url("https://images.stockcake.com/public/8/2/9/8290f9e3-df4b-4ca8-98f5-04a0b39a67ec/vibrant-city-bus-stockcake.jpg");}
+#display{border-style:solid;width:200px;height:45px;}
+.enter{ border-style:solid;margin-left:10px;margin-top:20px;background-color:cornflowerblue;height:30px;width:40px;}
+h3{color:rgb(230, 226, 243);border-style:solid;}
+#c1{border-style:solid;background-color:beige;}
+#c2{border-style:solid;background-color:beige;}
+#c3{border-style:solid;background-color:beige;}
+#final{border-style:solid;background-color:darkturquoise}
+h4{color:white;}
